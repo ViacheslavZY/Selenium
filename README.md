@@ -1,2 +1,2 @@
-# Selenium
+# Selenium_course
 Stepik course
